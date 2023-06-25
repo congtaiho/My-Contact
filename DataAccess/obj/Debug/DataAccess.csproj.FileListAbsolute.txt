@@ -1,0 +1,18 @@
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\Modell.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\Modell.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\Modell.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\bin\Debug\Modell.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\Backup TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\DataAccess\obj\Debug\DataAccess.pdb

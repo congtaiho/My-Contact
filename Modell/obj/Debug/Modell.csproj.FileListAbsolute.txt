@@ -1,0 +1,6 @@
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\Modell\bin\Debug\Modell.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\Modell\bin\Debug\Modell.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\Modell\obj\Debug\Modell.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\Modell\obj\Debug\Modell.dll
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\Modell\obj\Debug\Modell.pdb
+C:\Users\isi.751FJW2\Documents\ISI\D05-C#\TP\d05-a22-octobre-groupe3\TP-Gestion-Contacts\Modell\obj\Debug\Modell.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<Window x:Name="formDelete" x:Class="TP_Gestion_Contact.DeleteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP_Gestion_Contact"
+        mc:Ignorable="d"
+        Title="FORM DELETE" Height="516.606" Width="811.372" Background="#FF4CB979">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="766*"/>
+            <ColumnDefinition Width="37*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Delete contact" HorizontalAlignment="Center" Height="70" Margin="270,29,243.036,387" VerticalAlignment="Center" Width="253" FontSize="30" Background="#FFFDFDFD" Foreground="#FF080707" FontWeight="Bold" HorizontalContentAlignment="Center"/>
+        <Button x:Name="btSearchDeleteContact" Content="SEARCH" HorizontalAlignment="Left" Height="46" Margin="70,120,0,0" VerticalAlignment="Top" Width="91" FontSize="20" Click="BtSearchDeleteContact_Click"/>
+        <TextBox x:Name="tbSearchDeleteContact" HorizontalAlignment="Left" Height="46" Margin="191,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="517"/>
+        <DataGrid x:Name="dataSortSearch" HorizontalAlignment="Left" Height="180" Margin="36,188,0,0" VerticalAlignment="Top" Width="730" Background="White" SelectionChanged="DataSortSearch_SelectionChanged"/>
+        <Button x:Name="btDeleteContact" Content="Delete" HorizontalAlignment="Left" Height="56" Margin="237,407,0,0" VerticalAlignment="Top" Width="131" FontSize="20" Background="#FF0474E4" Foreground="White" FontWeight="Bold" Click="BtDeleteContact_Click" />
+        <Button x:Name="btCancleDeleteContact" Content="Cancle" HorizontalAlignment="Left" Height="56" Margin="470,407,0,0" VerticalAlignment="Top" Width="131" FontSize="20" Background="#FF0474E4" Foreground="White" FontWeight="Bold" Click="BtCancleDeleteContact_Click"/>
+
+    </Grid>
+</Window>

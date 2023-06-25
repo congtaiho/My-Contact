@@ -1,0 +1,35 @@
+﻿<Window x:Name="formEdit" x:Class="TP_Gestion_Contact.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP_Gestion_Contact"
+        mc:Ignorable="d"
+        Title="FORM EDIT" Height="510.108" Width="800" Background="#FF4CB979">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="149*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Edit contact" HorizontalAlignment="Center" Height="54" Margin="266,10,273,117.5" VerticalAlignment="Center" Width="253" FontSize="36" Background="#FFF8F9F9" Foreground="#FF080707" FontWeight="Bold" HorizontalContentAlignment="Center"/>
+        <Button x:Name="btSearchEdit" Content="SEARCH" HorizontalAlignment="Left" Height="46" Margin="428,87,0,0" VerticalAlignment="Top" Width="91" FontSize="20" Click="BtSearchEdit_Click"/>
+        <TextBox x:Name="tbEditContact" HorizontalAlignment="Left" Height="46" Margin="577,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
+        <DataGrid x:Name="dataEditContact" HorizontalAlignment="Left" Height="238" Margin="287,156,0,0" VerticalAlignment="Top" Width="495" Grid.RowSpan="2" RequestBringIntoView="DataEditContact_RequestBringIntoView"/>
+        <Button x:Name="btSubmitEdit" Content="Submit" HorizontalAlignment="Left" Height="56" Margin="56,231.5,0,0" VerticalAlignment="Top" Width="132" FontSize="20" Background="#FF0474E4" Foreground="White" FontWeight="Bold" Click="BtSubmitEdit_Click" Grid.Row="1" />
+        <Button x:Name="btCancleEdit" Content="Cancel" HorizontalAlignment="Left" Height="56" Margin="651,231.5,0,0" VerticalAlignment="Top" Width="131" FontSize="20" Background="#FF0474E4" Foreground="White" FontWeight="Bold" Click="BtCancleEdit_Click" Grid.Row="1" />
+        <TextBlock HorizontalAlignment="Left" Margin="23,0,0,260" TextWrapping="Wrap" Text="Nom" RenderTransformOrigin="-7.653,-17.281" FontSize="20" Grid.Row="1" Height="27" VerticalAlignment="Bottom" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="23,82,0,0" TextWrapping="Wrap" Text="Prenom" VerticalAlignment="Top" FontSize="22" Grid.Row="1" RenderTransformOrigin="0.573,1.572" FontWeight="Bold"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Height="39" Margin="127,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" RenderTransformOrigin="0.504,0.027" Grid.Row="1"/>
+        <TextBox x:Name="tbPrenom" HorizontalAlignment="Left" Height="42" Margin="127,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Grid.Row="1" RenderTransformOrigin="0.508,1.382" TextChanged="TbPrenom_TextChanged"/>
+        <TextBox x:Name="tbPhone" HorizontalAlignment="Left" Height="41" Margin="127,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="0,151,0,0" TextWrapping="Wrap" Text="Telephone" VerticalAlignment="Top" FontSize="22" Grid.Row="1" RenderTransformOrigin="0.526,1.245" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="23,110,0,32" TextWrapping="Wrap" Text="Id" FontSize="22" RenderTransformOrigin="0.584,0.259" FontWeight="Bold"/>
+        <TextBox x:Name="tbId" HorizontalAlignment="Left" Height="47" Margin="127,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136"/>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="349,225,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129" Height="58" FontSize="20" Background="#FF0474E4" Foreground="White" FontWeight="Bold" Click="Button_Click"/>
+
+    </Grid>
+</Window>
