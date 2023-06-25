@@ -1,4 +1,4 @@
-# My-Contact-C#
+# My-Contact
 This is a contact management program. Included in my C# course content. Program with functions: add - edit - delete - search contacts. The program is linked to the SQL database Ado.net.
 ## Introduction
 ---
